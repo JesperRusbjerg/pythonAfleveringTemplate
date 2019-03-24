@@ -56,3 +56,4 @@ widgetsnbextension==3.4.2
 pygal==2.0.0
 folium==0.7.0
 cairosvg==2.3.0
+networkx=2.2
