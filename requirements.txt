@@ -57,3 +57,4 @@ pygal==2.0.0
 folium==0.7.0
 cairosvg==2.3.0
 networkx==2.2
+tensorflow==1.12.2
